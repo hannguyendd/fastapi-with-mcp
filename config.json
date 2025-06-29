@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "math-tools": {
+      "type": "http",
+      "url": "http://localhost:8000/mcp-server/sse",
+      "env": {}
+    }
+  }
+}
